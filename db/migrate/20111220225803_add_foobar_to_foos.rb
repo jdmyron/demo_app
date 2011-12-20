@@ -3,3 +3,5 @@ class AddFoobarToFoos < ActiveRecord::Migration
     add_column :foos, :foobar, :string
   end
 end
+
+#lalala I AM TESTING!!!
